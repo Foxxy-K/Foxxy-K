@@ -1,6 +1,6 @@
  👋 Hi, I’m @Foxxy-K
-- 👀 I’m interested in programming and learning how computer parts work and how to build PCs
-- 🌱 I’m currently learning python and JavaScript
+- 👀 I’m interested in programming and learn how computer parts work
+- 🌱 I’m currently learning html, css and JavaScript
 - 🥞I love pancakes and coffee(But i do not drink)!☕️
 
 <!---
